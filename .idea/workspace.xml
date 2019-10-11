@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57575cd7-13df-436c-bffa-e147e5930de1" name="Default Changelist" comment="update problems' No.">
-      <change beforePath="$PROJECT_DIR$/week5/Problem_A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="../../IdeaProjects/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week3/Problem_1005.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="365">
               <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
@@ -94,6 +94,11 @@
               <item name="JavaAOJ" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaAOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -106,14 +111,14 @@
     <property name="ChangesTree.GroupingKeys" value="module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570802543992" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570803825745" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,9 +132,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_1003">
+  <component name="RunManager" selected="Application.Problem_1046">
     <configuration name="Problem_1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem_1003" />
+      <module name="JavaAOJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_1046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_1046" />
       <module name="JavaAOJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,9 +183,11 @@
       <item itemvalue="Application.Problem_A" />
       <item itemvalue="Application.Problem_1055" />
       <item itemvalue="Application.Problem_1003" />
+      <item itemvalue="Application.Problem_1046" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_1046" />
         <item itemvalue="Application.Problem_1003" />
         <item itemvalue="Application.Problem_1055" />
         <item itemvalue="Application.Problem_A" />
@@ -194,7 +208,7 @@
       <workItem from="1570694987560" duration="2522000" />
       <workItem from="1570697556199" duration="221000" />
       <workItem from="1570781545912" duration="8301000" />
-      <workItem from="1570799351612" duration="2998000" />
+      <workItem from="1570799351612" duration="3974000" />
     </task>
     <task id="LOCAL-00001" summary="作业更新，补发">
       <created>1570695646650</created>
@@ -261,7 +275,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14042000" />
+    <option name="totallyTimeSpent" value="15018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,7 +303,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32858709" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -359,6 +373,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="作业更新，补发" />
     <MESSAGE value="修改章节题目题号为aoj号" />
     <MESSAGE value="rename problems to AOJ problem No." />
@@ -480,7 +498,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week3/Problem_1005.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="365">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
