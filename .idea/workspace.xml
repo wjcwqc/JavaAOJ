@@ -3,35 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="40807adc-9b7b-4dc8-8fba-71910193dc0b" name="Default Changelist" comment="upload codes at 19.10.12&#10;&#10;Signed-off-by: wjcwqc &lt;wjcwqc@gmail,com&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high-accuracy/Problem_1547.java" beforeDir="false" afterPath="$PROJECT_DIR$/high-accuracy/Problem_1547.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1038.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1039.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1041.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1056.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1058.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1060.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1079.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1093.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1112.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1113.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1115.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1125.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1159.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1213.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1253.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_1269.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_E.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_F.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_H.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_J.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Problem_K.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/codes_my/Problem_G.class" beforeDir="false" />
     </list>
     <ignored path="out/" />
     <manually-removed-from-ignored>
@@ -144,7 +115,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570898220303" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570899017025" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -176,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570896341746</updated>
-      <workItem from="1570896344465" duration="1687000" />
+      <workItem from="1570896344465" duration="2270000" />
     </task>
     <task id="LOCAL-00001" summary="upload codes at 19.10.12">
       <created>1570896601886</created>
@@ -192,14 +163,22 @@
       <option name="project" value="LOCAL" />
       <updated>1570896772553</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload codes at 19.10.12&#10;&#10;Signed-off-by: wjcwqc &lt;wjcwqc@gmail,com&gt;">
+      <created>1570898295187</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570898295187</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1687000" />
+    <option name="totallyTimeSpent" value="2270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
