@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_K {
+public class Problem_1198 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         int n=cin.nextInt();

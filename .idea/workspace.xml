@@ -1,50 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40807adc-9b7b-4dc8-8fba-71910193dc0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1193.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1259.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1270.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1323.java" afterDir="false" />
+    <list default="true" id="40807adc-9b7b-4dc8-8fba-71910193dc0b" name="Default Changelist" comment="更新章节名称，顺便肝了4题保个第二肝不动了&#10;&#10;Signed-off-by: wjcwqc &lt;wjcwqc@gmail,com&gt;">
+      <change afterPath="$PROJECT_DIR$/work_1403/Problem_1053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_1403/Problem_2573.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_1473/Probelm_2581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_1473/Problem_1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_1473/Problem_1583.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_1473/Problem_2579.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaAOJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAOJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high-accuracy/Problem_1177.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1457/Problem_1177.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high-accuracy/Problem_1288.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1457/Problem_1288.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high-accuracy/Problem_1298.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1457/Problem_1298.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high-accuracy/Problem_1547.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1457/Problem_1547.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high-accuracy/Problem_1833.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1457/Problem_1833.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1005.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1038.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1038.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1041.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1041.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1046.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1046.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1093.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1093.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1159.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1159.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1213.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1213.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1253.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1253.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/Problem_1269.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1400/Problem_1269.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1039.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1039.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1056.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1056.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1058.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1058.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1060.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1060.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1079.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1079.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1112.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1113.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1115.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1115.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/Problem_1125.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1401/Problem_1125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_1003.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_E.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_F.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_F.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_G.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_G.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_H.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_H.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_J.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_J.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Problem_K.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_K.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1091.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_E.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1095.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_F.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1096.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_G.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1126.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_H.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1145.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1182.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_J.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1186.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1402/Problem_K.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1402/Problem_1198.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_1403/Problem_1148.java" beforeDir="false" afterPath="$PROJECT_DIR$/work_1403/Problem_1148.java" afterDir="false" />
     </list>
     <ignored path="out/" />
     <manually-removed-from-ignored>
@@ -58,11 +34,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/work_1403/Problem_1259.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_3037.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_1573.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-169">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_2810.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_1736.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -93,14 +96,45 @@
         <option value="$PROJECT_DIR$/high-accuracy/Problem_1288.java" />
         <option value="$PROJECT_DIR$/high-accuracy/Problem1547.java" />
         <option value="$PROJECT_DIR$/high-accuracy/Problem_1547.java" />
-        <option value="$PROJECT_DIR$/work_1403/Problem_1148.java" />
         <option value="$PROJECT_DIR$/work_1403/Problem_1170.java" />
         <option value="$PROJECT_DIR$/work_1403/Problem_1323.java" />
         <option value="$PROJECT_DIR$/work_1403/test.java" />
-        <option value="$PROJECT_DIR$/work_1403/Problem_1189.java" />
         <option value="$PROJECT_DIR$/work_1403/Problem_1270.java" />
         <option value="$PROJECT_DIR$/work_1403/Problem_1193.java" />
         <option value="$PROJECT_DIR$/work_1403/Problem_1259.java" />
+        <option value="$PROJECT_DIR$/work_1403/Problem_1189.java" />
+        <option value="$PROJECT_DIR$/work_1403/Problem_1053.java" />
+        <option value="$PROJECT_DIR$/work_1403/Problem_1148.java" />
+        <option value="$PROJECT_DIR$/work_1402/Problem_G.java" />
+        <option value="$PROJECT_DIR$/work_1403/Problem_2573.java" />
+        <option value="$PROJECT_DIR$/work_1473/Problem_2580.java" />
+        <option value="$PROJECT_DIR$/work_1473/Problem_1583.java" />
+        <option value="$PROJECT_DIR$/work_1403/Problem_2579.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_2580.java" />
+        <option value="$PROJECT_DIR$/work_1473/Problem_2579.java" />
+        <option value="$PROJECT_DIR$/work_1473/Problem_1583b.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_1055.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_1115.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_1220.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_1221.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_1341.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_1582.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_1964.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_2577.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_2606.java" />
+        <option value="$PROJECT_DIR$/work_1468/Problem_2793.java" />
+        <option value="$PROJECT_DIR$/work_1473/Problem_1265.java" />
+        <option value="$PROJECT_DIR$/work_1473/Problem_2581b.java" />
+        <option value="$PROJECT_DIR$/work_1473/Probelm_2581.java" />
+        <option value="$PROJECT_DIR$/work_1473/Problem_1051.java" />
+        <option value="$PROJECT_DIR$/work_1402/Problem_1021.java" />
+        <option value="$PROJECT_DIR$/work_1402/Problem_1091.java" />
+        <option value="$PROJECT_DIR$/work_1402/Problem_1126.java" />
+        <option value="$PROJECT_DIR$/work_1402/Problem_1096.java" />
+        <option value="$PROJECT_DIR$/Contest_1469/Problem_1736.java" />
+        <option value="$PROJECT_DIR$/Contest_1469/Problem_1573.java" />
+        <option value="$PROJECT_DIR$/Contest_1469/Problem_3037.java" />
+        <option value="$PROJECT_DIR$/Contest_1469/Problem_2810.java" />
       </list>
     </option>
   </component>
@@ -111,9 +145,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="793" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -138,21 +172,21 @@
             <path>
               <item name="JavaAOJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAOJ" type="462c0819:PsiDirectoryNode" />
-              <item name="work_1403" type="462c0819:PsiDirectoryNode" />
+              <item name="Contest_1469" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571241092249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573808885685" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -161,6 +195,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,56 +213,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_1193">
-    <configuration name="Problem_1170" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_1170" />
+  <component name="RunManager" selected="Application.Problem_1220">
+    <configuration name="Problem_1055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_1055" />
       <module name="JavaAOJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_1193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_1193" />
+    <configuration name="Problem_1115b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_1115b" />
       <module name="JavaAOJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_1270" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_1270" />
+    <configuration name="Problem_1220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_1220" />
       <module name="JavaAOJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_1323" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_1323" />
+    <configuration name="Problem_1583b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_1583b" />
       <module name="JavaAOJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Problem_2579" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_2579" />
       <module name="JavaAOJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Problem_1170" />
-      <item itemvalue="Application.Problem_1323" />
-      <item itemvalue="Application.Problem_1270" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.Problem_1193" />
+      <item itemvalue="Application.Problem_2579" />
+      <item itemvalue="Application.Problem_1583b" />
+      <item itemvalue="Application.Problem_1055" />
+      <item itemvalue="Application.Problem_1115b" />
+      <item itemvalue="Application.Problem_1220" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_1193" />
-        <item itemvalue="Application.Problem_1270" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Problem_1323" />
-        <item itemvalue="Application.Problem_1170" />
+        <item itemvalue="Application.Problem_1220" />
+        <item itemvalue="Application.Problem_1115b" />
+        <item itemvalue="Application.Problem_1055" />
+        <item itemvalue="Application.Problem_1583b" />
+        <item itemvalue="Application.Problem_2579" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +281,15 @@
       <workItem from="1571223404425" duration="4952000" />
       <workItem from="1571230288368" duration="5355000" />
       <workItem from="1571237443524" duration="2134000" />
-      <workItem from="1571240402383" duration="916000" />
+      <workItem from="1571240402383" duration="1127000" />
+      <workItem from="1571293662829" duration="4039000" />
+      <workItem from="1571386188783" duration="3750000" />
+      <workItem from="1571598059592" duration="57000" />
+      <workItem from="1572250612649" duration="690000" />
+      <workItem from="1572256879170" duration="17000" />
+      <workItem from="1573126133277" duration="605000" />
+      <workItem from="1573286198700" duration="6078000" />
+      <workItem from="1573805243483" duration="3570000" />
     </task>
     <task id="LOCAL-00001" summary="upload codes at 19.10.12">
       <created>1570896601886</created>
@@ -265,17 +312,24 @@
       <option name="project" value="LOCAL" />
       <updated>1570898295187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新章节名称，顺便肝了4题保个第二肝不动了&#10;&#10;Signed-off-by: wjcwqc &lt;wjcwqc@gmail,com&gt;">
+      <created>1571241386518</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571241386518</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22364000" />
+    <option name="totallyTimeSpent" value="41381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26586434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22944297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,8 +337,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,7 +347,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.16120219" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -304,6 +358,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22944297" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.16120219" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -368,9 +452,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/work_1403/test.java" />
+    <entry file="file://$PROJECT_DIR$/work_1403/Problem_1193.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="36" column="19" lean-forward="true" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1403/Problem_1259.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/work_1403/Problem_1270.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1288">
+        <state relative-caret-position="840">
           <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
         </state>
       </provider>
@@ -382,25 +481,239 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work_1403/test.java" />
-    <entry file="file://$PROJECT_DIR$/work_1403/Problem_1193.java">
+    <entry file="file://$PROJECT_DIR$/work_1403/Problem_1053.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="36" column="19" lean-forward="true" selection-end-line="40" />
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/work_1403/Problem_1148.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work_1403/Problem_1259.java">
+    <entry file="file://$PROJECT_DIR$/work_1403/Problem_2573.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Problem_2580.java" />
+    <entry file="file://$PROJECT_DIR$/work_1403/Problem_2579.java" />
+    <entry file="file://$PROJECT_DIR$/work_1473/A.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="21" lean-forward="true" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_1221.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_1341.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_1582.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_1964.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_2577.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_2580.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="24" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_2606.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_2793.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#59#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/C.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Problem_1583.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Problem_2579.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Problem_2581b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Problem_1265.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Problem_1051.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1401/Problem_1115.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Problem_1583b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_1055.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_1115b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1468/Problem_1220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1473/Probelm_2581.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1402/Problem_1021.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1402/Problem_1091.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1402/Problem_1126.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_1402/Problem_1096.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_1573.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_1573.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contest_1469/E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_1736.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_3037.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contest_1469/Problem_2810.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>

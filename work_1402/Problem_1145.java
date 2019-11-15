@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Problem_H {
+public class Problem_1145 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         int[] num = new int[26];

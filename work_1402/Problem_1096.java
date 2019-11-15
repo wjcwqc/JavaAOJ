@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_F {
+public class Problem_1096 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         String A = cin.nextLine();
@@ -9,6 +9,7 @@ public class Problem_F {
         System.out.println(num);
 
     }
+
     public static int minDistance(String word1, String word2) {
         int n1 = word1.length();
         int n2 = word2.length();
@@ -26,6 +27,7 @@ public class Problem_F {
         }
         return dp[n1][n2];
     }
+}
 //    public static void main(String[] args) {
 //        Scanner cin = new Scanner(System.in);
 //        String A = cin.nextLine();
@@ -52,4 +54,4 @@ public class Problem_F {
 //        }
 //        //finish
 //    }
-}
+

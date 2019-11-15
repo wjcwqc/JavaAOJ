@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_J {
+public class Problem_1186 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         String[] dio = {"0000","0001","0010","0011","0100","0101","0110","0111",
